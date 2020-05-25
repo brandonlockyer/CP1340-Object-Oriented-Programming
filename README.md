@@ -1,5 +1,4 @@
 # CP1340-Object-Oriented-Programming
-Labs 1 - 6
 
 Lab 1 Arrays and Strings  
 Lab 2 Classes and Objects I  
